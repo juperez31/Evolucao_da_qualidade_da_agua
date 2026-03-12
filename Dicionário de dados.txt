@@ -1,0 +1,20 @@
+              Variavel       |   Tipo   |    Unidade    | Descricao
+      SEQID                  | int64    |       -       | Identificador sequencial do registro
+      TipoRede               | texto    |       -       | Tipo de rede de monitoramento
+      UGRHI                  | texto    |       -       | Unidade de Gerenciamento de Recursos Hídricos
+      CodPonto               | texto    |       -       | Código do ponto de coleta
+      SistHidrico            | texto    |       -       | Sistema hídrico monitorado
+      Municipio              | texto    |       -       | Município da coleta
+      UF                     | texto    |       -       | unidade federativa
+      Coleta_Data            | data     |       -       | Data da coleta da amostra
+      pH                     | numérico | unidade de pH | Potencial hidrogeniônico da água
+      Temperatura da Água    | numérico |      °C       | Temperatura da água no momento da coleta
+      Turbidez               | numérico |      NTU      | Medida de turbidez da água
+      Condutividade          | numérico |     µS/cm     | Condutividade elétrica da água
+      Oxigênio Dissolvido    | numérico |     mg/L      | Quantidade de oxigênio dissolvido na água
+      DBO (5,20)             | numérico |     mg/L      | Demanda bioquímica de oxigênio
+      Benzeno                | numérico |     µg/L      | Concentração de benzeno na água
+      Alumínio Total         | numérico |     µg/L      | Concentração total de alumínio
+      Escherichia coli       | numérico |   NMP/100 mL  | Quantidade de bactérias E. coli
+      1,1,1-Tricloroetano    | numérico |     µg/L      | Concentração do composto orgânico
+      1,1,2,2-Tetracloroetano| numérico |     µg/L      | Concentração do composto orgânico
